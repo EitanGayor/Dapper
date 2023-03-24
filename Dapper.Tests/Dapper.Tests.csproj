@@ -20,7 +20,7 @@
     <ProjectReference Include="..\Dapper\Dapper.csproj" />
     <ProjectReference Include="..\Dapper.Contrib\Dapper.Contrib.csproj" />
     <PackageReference Include="FirebirdSql.Data.FirebirdClient" Version="5.9.1" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.2" />
     <PackageReference Include="MySqlConnector" Version="0.44.1" />
     <PackageReference Include="Npgsql" Version="3.2.5" />
     <PackageReference Include="System.Data.SqlClient" Version="4.4.0" />
